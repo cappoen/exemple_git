@@ -8,4 +8,14 @@
 
 5 il n'existera d'abord que dans la branche feature/nex-text
 
+<<<<<<< HEAD
 salut à tous comment aller vous.
+=======
+6 il n'existe pour le moment que dans la branche main
+
+7
+
+exercice pratique
+tah les fous
+comme liam
+>>>>>>> 8699a56d8bb9769ad73543a3b734df3d4e3da745
